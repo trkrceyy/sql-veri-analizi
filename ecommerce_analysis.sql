@@ -1,7 +1,6 @@
 -- ==========================================================
 -- E-COMMERCE SALES ANALYSIS PROJECT (MySQL)
--- Created by: [Kendi adını yaz]
--- GitHub: [isteğe bağlı bağlantı]
+-- Created by: [CEYDA TÜRKER]
 -- ==========================================================
 
 -- 1️⃣ VERİTABANI OLUŞTURMA
